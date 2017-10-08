@@ -39,4 +39,5 @@ int validate_pwd_argv(int argc, char** argv) {
   return 1;
  }else
  return 0;
+
 }
